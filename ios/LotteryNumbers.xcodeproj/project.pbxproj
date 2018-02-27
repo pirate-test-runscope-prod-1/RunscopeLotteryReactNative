@@ -491,7 +491,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = 9KBH5RKYEW;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -852,7 +852,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = 9KBH5RKYEW;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				INFOPLIST_FILE = LotteryNumbers/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -861,8 +861,8 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = LotteryNumbers;
-				PROVISIONING_PROFILE = "c381f3d3-9dc4-450f-a775-c8da1e4809de";
-				PROVISIONING_PROFILE_SPECIFIER = "Microsoft Dogfood Provisioning Profile";
+				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
+				PROVISIONING_PROFILE_SPECIFIER = "iOS Wildcard In-House";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -873,7 +873,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 9KBH5RKYEW;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				INFOPLIST_FILE = LotteryNumbers/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -882,8 +882,8 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = LotteryNumbers;
-				PROVISIONING_PROFILE = "c381f3d3-9dc4-450f-a775-c8da1e4809de";
-				PROVISIONING_PROFILE_SPECIFIER = "Microsoft Dogfood Provisioning Profile";
+				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
+				PROVISIONING_PROFILE_SPECIFIER = "iOS Wildcard In-House";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
